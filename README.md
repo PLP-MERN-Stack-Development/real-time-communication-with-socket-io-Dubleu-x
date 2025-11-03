@@ -122,8 +122,6 @@ Build a real-time chat application using Socket.io that demonstrates bidirection
 ![Chat Interface](./screenshots/Dashboard.jpeg)
 
 
-
-
 ## 🛠️ Technical Features
 
 ### Real-time Events Handled
